@@ -16,4 +16,4 @@ Safe Chat is a mobile chat application designed to provide a safer online enviro
 - **Research Paper Link** - https://ieeexplore.ieee.org/document/9915958
 
 ## Demo video <br>
-![Watch video](https://www.youtube.com/watch?si=MeOxMWtkhTScM76S&v=VLFu2vBQdLI&feature=youtu.be)
+[![Watch video](https://www.youtube.com/watch?si=MeOxMWtkhTScM76S&v=VLFu2vBQdLI&feature=youtu.be)]
