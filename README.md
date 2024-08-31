@@ -15,5 +15,5 @@ Safe Chat is a mobile chat application designed to provide a safer online enviro
 - **Research Publication:** Published a research paper titled “Text-Based Cyberbullying Prevention using Toxicity Filtering Mobile Chat Application and API” at the 2022 IEEE International Conference on Data Science and Information System (ICDSIS).
 - **Research Paper Link** - https://ieeexplore.ieee.org/document/9915958
 
-## Demo video 
-![](https://www.youtube.com/watch?si=MeOxMWtkhTScM76S&v=VLFu2vBQdLI&feature=youtu.be)
+## Demo video <br>
+![Watch video](https://www.youtube.com/watch?si=MeOxMWtkhTScM76S&v=VLFu2vBQdLI&feature=youtu.be)
