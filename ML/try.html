@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BE Project</title>
+	<style type="text/css">
+		*{
+			font-size:30px;
+		}
+	</style>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<input type="text" id="description-input" size=50>
+	<button id="des-button">
+		Predict
+	</button>
+	<pre id = "result"></pre>
+	<script>
+		$("#des-button").click(function(event){
+			let message = {
+				text: $("#description-input").val()
+			}
+			$.post("http://127.0.0.1:5000/predict",JSON.stringify(message), function(response){
+					console.log('hello')
+					$("#result").text(response.prediction);
+					console.log(response)
+				});
+		});
+	</script>
+</body>
+</html>
